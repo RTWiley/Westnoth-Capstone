@@ -1,3 +1,16 @@
 3.8.2026 R Trogdor Pre-release
-Place zip file under Wesnoth1.18/data/add-ons and unzip
 Unnecessary files deleted and terrain change proximity bug fixed since last update
+
+To install:
+
+Download Wesnoth
+Open Wesnoth, and click on the blue i in the lower left corner of the opening screen.
+This will open a pop-up that shows you some file path shortcuts.
+Open the one called "Add-ons." 
+Place Trogdor_The_Burninator under "Add-ons"
+Unzip Trogdor_The_Burninator.
+Check that the file opens directly into the correct subfiles.
+Close Wesnoth completely.
+Reopen Wesnoth.
+Select Campaigns from the side menu.
+If you scroll through Campaigns, Trogdor should be visible somewhere on the list, probably near the bottom.
